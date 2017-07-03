@@ -1,0 +1,9 @@
+/Users/DELPIN/Projects/XamariniOSUserDefaults/XamariniOSUserDefaults/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/DELPIN/Projects/XamariniOSUserDefaults/XamariniOSUserDefaults/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSUserDefaults/XamariniOSUserDefaults/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-10.3/actool/_PartialAppManifest.items
+/Users/DELPIN/Projects/XamariniOSUserDefaults/XamariniOSUserDefaults/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSUserDefaults/XamariniOSUserDefaults/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-10.3/optimized/
+/Users/DELPIN/Projects/XamariniOSUserDefaults/XamariniOSUserDefaults/bin/iPhoneSimulator/Debug/XamariniOSUserDefaults.exe.mdb
+/Users/DELPIN/Projects/XamariniOSUserDefaults/XamariniOSUserDefaults/bin/iPhoneSimulator/Debug/XamariniOSUserDefaults.exe
+/Users/DELPIN/Projects/XamariniOSUserDefaults/XamariniOSUserDefaults/obj/iPhoneSimulator/Debug/XamariniOSUserDefaults.exe
+/Users/DELPIN/Projects/XamariniOSUserDefaults/XamariniOSUserDefaults/obj/iPhoneSimulator/Debug/XamariniOSUserDefaults.exe.mdb
