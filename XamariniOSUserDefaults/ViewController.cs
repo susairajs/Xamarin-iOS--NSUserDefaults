@@ -22,28 +22,24 @@ namespace XamariniOSUserDefaults
 				if (switchOnOff.On == true)
 				{
 				    //Store value on Userdefaults
-					storevalues.SetBool(switchOnOff.On = true, "swithvalue");
+				    storevalues.SetBool(switchOnOff.On = true, "swithvalue");
 				}
 				else
 				{
-                    //Store value on Userdefaults
-					storevalues.SetBool(switchOnOff.On = false, "swithvalue");
+                                    //Store value on Userdefaults
+				    storevalues.SetBool(switchOnOff.On = false, "swithvalue");
 				}
 			};
 		}
 		partial void UIButton12_TouchUpInside(UIButton sender)
 		{
-            //Store value on Userdefaults
-			storevalues.SetString(txtString.Text, "stringvalue");
-			storevalues.SetInt(Int32.Parse(txtInteger.Text), "integervalue");
-
-			//Get values form Userdefaults
-
-			lblString.Text = storevalues.StringForKey("stringvalue");
-			lblInteger.Text = storevalues.IntForKey("integervalue").ToString();
-			lblBoolean.Text = storevalues.BoolForKey("swithvalue").ToString();;
-
-
+                     //Store value on Userdefaults
+	             storevalues.SetString(txtString.Text, "stringvalue");
+		     storevalues.SetInt(Int32.Parse(txtInteger.Text), "integervalue");
+                     //Get values form Userdefaults
+                     lblString.Text = storevalues.StringForKey("stringvalue");
+	             lblInteger.Text = storevalues.IntForKey("integervalue").ToString();
+	             lblBoolean.Text = storevalues.BoolForKey("swithvalue").ToString();;
 		}
 
 		public override void DidReceiveMemoryWarning()
