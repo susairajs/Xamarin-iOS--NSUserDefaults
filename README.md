@@ -1,6 +1,6 @@
-# Xamarin-iOS--NSUserDefaults
+# Working with NSUserDefaults in Xamarin.iOS
 
-This repos will store values to NSUserDefaults in Xamarin.iOS
+This repos will store and retrive values to NSUserDefaults in Xamarin.iOS
 
 Blog : https://xamarinmonkeys.blogspot.com/2017/07/nsuserdefaults-in-xamarin-ios.html
 
